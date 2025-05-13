@@ -1,1 +1,1 @@
-# Multi_class_classification_CNN
+Descrição de Gestos em ASL por LLM: Uma Abordagem via Prompting com Gemini
