@@ -1,6 +1,6 @@
 # Sobre
 
-Esse repositório foi criado para realização da segunda parte da atividade da matéria Programação para Ciência dos Dados da pós graduação em Ciência de Dados da Universidade do Estado do Amazonas (UEA)
+Este trabalho foi desenvolvido como parte do módulo Programação para Ciência de Dados, no curso de Pós-Graduação Lato Sensu em Ciência de Dados da Universidade do Estado do Amazonas (UEA).
 
 # Equipe
 
