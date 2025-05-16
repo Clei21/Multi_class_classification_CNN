@@ -4,10 +4,10 @@ Esse repositório foi criado para realização da segunda parte da atividade da 
 
 # Equipe
 
-Andreson Malaquias de Almeida
-Anna Alicia Milani
-Cleidiana Manoel Alves
-Thayanne da Silva Ramires
+- Andreson Malaquias de Almeida
+- Anna Alicia Milani
+- Cleidiana Manoel Alves
+- Thayanne da Silva Ramires
 
 # Links Importantes
 
